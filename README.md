@@ -1,5 +1,6 @@
 # 💫 Something Wann:
 I'm just a sleepy software engineer who really want to get cuddled
+![Alt text](./743feba6-7bf2-4482-b741-1705a9ab4eda.jpg?raw=true "PFP")
 
 
 ## 🌐 Socials:
@@ -38,7 +39,11 @@ I'm just a sleepy software engineer who really want to get cuddled
 
 ###
 # 📊 GitHub Stats:
-<img src="https://raw.githubusercontent.com/ttaitana/ttaitana/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ttaitana/ttaitana/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ttaitana/ttaitana/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ttaitana/ttaitana/output/pacman-contribution-graph.svg">
+</picture>
 
 ![](https://github-readme-stats.vercel.app/api?username=ttaitana&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
