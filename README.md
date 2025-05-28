@@ -40,9 +40,9 @@ I'm just a sleepy software engineer who really want to get cuddled
 ###
 # 📊 GitHub Stats:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ttaitana/ttaitana/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ttaitana/ttaitana/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ttaitana/ttaitana/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ttaitana/ttaitana/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ttaitana/ttaitana/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ttaitana/ttaitana/output/github-snake.svg" />
 </picture>
 
 ![](https://github-readme-stats.vercel.app/api?username=ttaitana&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
